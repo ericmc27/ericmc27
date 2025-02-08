@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Castillo</h1>
-- 🔭 I’m currently working on [a Blog App](https://github.com/ericmc27/blog-app)
+🔭 I’m currently working on [a Blog App](https://github.com/ericmc27/blog-app)
 
 - 🌱 I’m currently learning **Next.js, Express**
 
