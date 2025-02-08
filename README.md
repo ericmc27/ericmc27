@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eric Castillo</h1>
 🔭 I’m currently working on [a Blog App](https://github.com/ericmc27/blog-app)
 
-- 🌱 I’m currently learning **Next.js, Express**
+- 🌱 I’m currently learning: **Next.js, Express**
 
 - 👯 I’m looking to collaborate on **any project that enhances our skills as developers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ericmc27?tab=repositories](https://github.com/ericmc27?tab=repositories)
 
-- 💬 Ask me about **React.js, Flask, Python, Javascript**
+- 💬 Ask me about: **React.js, Flask, Python, Javascript**
 
 - ⚡ Fun fact: **I am curious just about everything**
 
