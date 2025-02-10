@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **Next.js, Express**
 
-- 👯 I’m looking to collaborate on **any project that enhances our skills as developers**
+- 👯 I’m looking to collaborate on **any project that improves our skills as developers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ericmc27?tab=repositories](https://github.com/ericmc27?tab=repositories)
 
